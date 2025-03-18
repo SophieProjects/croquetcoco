@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @croquetcoco
+- 👋 Hi, I’m @SophieProjects
 
 <!---
 croquetcoco/croquetcoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
